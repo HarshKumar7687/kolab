@@ -61,7 +61,7 @@ function EditorPage() {
         };
     }, []);
 
-    if (!location.state) {
+    if (!location.state || !location.state.username) {
         return <Navigate to="/" />;
     }
 
