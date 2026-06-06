@@ -1,0 +1,19 @@
+client requirements
+
+npm create vite@latest
+npm i bootstrap
+npm i codemirror
+npm i react-avatar 
+npm i react-hot-toast
+npm i react-router-dom
+npm i socket.io-client
+npm i uuid
+
+
+
+server requirements
+
+npm init
+npm i express
+npm i socket.io
+npm i nodemon
