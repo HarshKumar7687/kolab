@@ -7,7 +7,6 @@
 ![Express.js](https://img.shields.io/badge/Express.js-Server-black?logo=express)
 ![Socket.IO](https://img.shields.io/badge/Socket.IO-Real--Time-010101?logo=socket.io)
 ![JavaScript](https://img.shields.io/badge/JavaScript-ES6-F7DF1E?logo=javascript)
-![License](https://img.shields.io/badge/License-MIT-blue)
 
 ---
 
@@ -263,9 +262,9 @@ Institute of Technical Education and Research (ITER), SOA University
 
 ### Connect with Me
 
-- **GitHub:** https://github.com/HarshKumar7687
-- **LinkedIn:** https://www.linkedin.com/in/harsh-kumar-8767/
-- **Portfolio:** https://harsh-portfolio-nine-chi.vercel.app/
+- 💼 LinkedIn: https://www.linkedin.com/in/harsh-kumar-91aa8132b/
+- 💻 GitHub: https://github.com/HarshKumar7687
+- 🌐 Portfolio: https://harshkumar-dev-portfolio.netlify.app/
 
 ---
 
