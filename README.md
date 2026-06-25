@@ -276,6 +276,5 @@ It motivates me to build more open-source projects and improve this application.
 
 ---
 
-# 📄 License
-
-This project is licensed under the MIT License.
+# Live link
+https://kolabb.netlify.app/
